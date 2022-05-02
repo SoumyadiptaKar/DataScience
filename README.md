@@ -1,4 +1,5 @@
 # DataScience
+![image](https://user-images.githubusercontent.com/69068577/166182460-c8679802-b98b-43cb-882e-3e1da4ab248a.png)
 
 This Repo cointains some basic knowledge on Python, statistics required for data science, machine learning models and important library usage.
 
